@@ -2,7 +2,7 @@
 
 Open US jobs in policy research, energy policy and communications at policy institutions, plus data and tech roles at those institutions. Read every day from the employers' own career sites and labelled for visa sponsorship and entry level.
 
-Last updated 2026-10-30 03:33 UTC. Open jobs: 146 (policy research 46, energy policy 68, communications at policy institutions 3, data and tech roles at policy institutions 29).
+Last updated 2026-10-30 03:44 UTC. Open jobs: 183 (policy research 62, energy policy 68, communications at policy institutions 5, data and tech roles at policy institutions 48).
 
 ## Files
 
@@ -26,7 +26,7 @@ Last updated 2026-10-30 03:33 UTC. Open jobs: 146 (policy research 46, energy po
 
 ## Open jobs
 
-### Policy research (46)
+### Policy research (62)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
@@ -44,15 +44,25 @@ Last updated 2026-10-30 03:33 UTC. Open jobs: 146 (policy research 46, energy po
 | Center for Global Development | [Policy Fellow - Market Shaping Accelerator](https://centerforglobaldevelopment.applytojob.com/apply/jobs/details/P4s4wWPxHN) | Washington, DC | sponsors | no | 12 | 2026-10-20 |
 | Center for Global Development | [Policy Fellow – AI Initiative - DC or London](https://centerforglobaldevelopment.applytojob.com/apply/jobs/details/DLfYmRjhBO) | Washington, DC | sponsors | no | 12 | 2026-10-14 |
 | cnas | [Research Assistant/Associate](https://cnas.bamboohr.com/careers/136) | Washington, District of Columbia, United States | unclear | yes | 2 | 2026-07-15 |
+| The Brookings Institution | [Research Assistant, Economic Studies](https://careers-brookings.icims.com/jobs/3923/research-assistant%2c-economic-studies-%28job-id%3a-2026-3923%29/job) | Washington, DC, US | unclear | yes |  | 2026-10-23 |
+| The Brookings Institution | [Senior Research Assistant, The Hamilton Project](https://careers-brookings.icims.com/jobs/3892/senior-research-assistant%2c-the-hamilton-project-%28job-id%3a-2026-3892%29/job) | Washington, DC, US | unclear | yes | 1 | 2026-10-12 |
 | Charles River Associates | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States (+6 more) | unclear | no |  | 2026-08-28 |
 | FAS | [Policy Entrepreneurship, Manager/Senior Manager](https://fas.applytojob.com/apply/jobs/details/Gvh3qKMaXK) | Washington DC, DC | unclear | no | 8 | 2026-10-16 |
 | georgetown/wd1/Georgetown_Admin_Careers | [Research Finance & Operations Coordinator - McCourt School of Public Policy - Georgetown University](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/125-E-St-NW-5th-Floor/Research-Finance---Operations-Coordinator---McCourt-School-of-Public-Policy---Georgetown-University_JR27899) | 125 E St NW 5th Floor | unclear | no |  | 2026-10-22 |
 | nreca/wd1/External | [Regulatory Affairs Director, Large Loads and Market Policy](https://nreca.wd1.myworkdayjobs.com/External/job/Arlington-VA/Regulatory-Affairs-Director--Large-Loads-and-Market-Policy_R2026-922) | Arlington, VA | unclear | no |  | 2026-09-30 |
 | avalerehealth | [Consultant, Policy](https://jobs.lever.co/avalerehealth/4b3acfec-d214-4663-9448-2bcca3108963) | Remote (US); Washington DC | not_mentioned | yes | 4 | 2026-07-24 |
 | avalerehealth | [Consultant, Policy (Vaccines)- U.S. Based- REMOTE WORKING OPPORTUNITY](https://jobs.lever.co/avalerehealth/de313ad9-02a4-4c61-941b-3a47665eb715) | Remote (US); Washington DC | not_mentioned | yes | 4 | 2026-07-24 |
+| careers.rti.org | [Research Assistant (Contractor) – Neuropsychopharmacology](https://careers.rti.org/jobs/13585?lang=en-us) | Durham, North Carolina | not_mentioned | yes |  | 2026-09-11 |
 | georgetown/wd1/Georgetown_Admin_Careers | [Clinical Research Associate](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Medical-Center/Clinical-Research-Associate_JR25746-1) | Medical Center | not_mentioned | yes |  | 2026-10-28 |
+| mathematica/4 | [Advisory Services Analyst, Medicaid Policy and Program](https://mathematica.csod.com/ux/ats/careersite/4/job/385?c=mathematica) | Cambridge, MA, US; Chicago, IL, US; Princeton, NJ, US (+2 more) | not_mentioned | yes |  | 10/14/2026 |
+| mathematica/4 | [Health Research Analyst (Qualitative Research)](https://mathematica.csod.com/ux/ats/careersite/4/job/386?c=mathematica) | Ann Arbor, MI, US; Cambridge, MA, US; Chicago, IL, US (+3 more) | not_mentioned | yes |  | 10/12/2026 |
+| mathematica/4 | [Medicaid Research Associate](https://mathematica.csod.com/ux/ats/careersite/4/job/384?c=mathematica) | Cambridge, MA, US; Chicago, IL, US; Princeton, NJ, US (+2 more) | not_mentioned | yes |  | 10/14/2026 |
+| mathematica/4 | [Project Associate, Human Services Policy (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/372?c=mathematica) | Ann Arbor, MI, US; Cambridge, MA, US; Chicago, IL, US (+3 more) | not_mentioned | yes |  | 9/11/2026 |
+| mathematica/4 | [Senior Fellow - Medicaid (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/373?c=mathematica) | Ann Arbor, MI, US; Cambridge, MA, US; Chicago, IL, US (+3 more) | not_mentioned | yes |  | 9/21/2026 |
+| mathematica/4 | [Senior/Principal Researcher, Medicaid Policy and Program (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/332?c=mathematica) | Ann Arbor, MI, US; Cambridge, MA, US; Chicago, IL, US (+4 more) | not_mentioned | yes |  | 5/20/2026 |
 | Pew Research Center | [Research Assistant, Global Attitudes](https://pewtrusts.wd5.myworkdayjobs.com/CenterExternal/job/Washington-DC-Pew-Research-Center/Research-Assistant--Global-Attitudes_R003309) | Washington, DC (Pew Research Center) | not_mentioned | yes |  | 2026-10-23 |
 | Pew Research Center | [Research Associate, U.S. Demography, Race & Ethnicity](https://pewtrusts.wd5.myworkdayjobs.com/CenterExternal/job/Washington-DC-Pew-Research-Center/Research-Associate--US-Demography--Race---Ethnicity_R003304) | Washington, DC (Pew Research Center) | not_mentioned | yes | 3 | 2026-10-07 |
+| The Brookings Institution | [Project Manager and Research Analyst](https://careers-brookings.icims.com/jobs/3920/project-manager-and-research-analyst-%28job-id%3a-2026-3920%29/job) | Washington, DC, US | not_mentioned | yes | 4 | 2026-10-13 |
 | urban/wd115/Urban-Careers | [Research Assistant – Quantitative (Health, Income, and Benefits Policy Division)](https://urban.wd115.myworkdayjobs.com/Urban-Careers/job/The-Urban-Institute-DC/Research-Assistant---Quantitative--Health--Income--and-Benefits-Policy-Division-_R-801655) | The Urban Institute (DC) | not_mentioned | yes | 1 | 2026-10-23 |
 | avalerehealth | [Associate Principal, Policy (Vaccines)- Remote US Work role](https://jobs.lever.co/avalerehealth/412e86d3-8aa9-47c0-8ad9-a5b615990336) | Remote (US); Washington DC | not_mentioned | no | 6 | 2026-09-18 |
 | avalerehealth | [Associate Principal, Policy- Drug Pricing (U.S. Based- REMOTE WORK)](https://jobs.lever.co/avalerehealth/5408e673-2063-440e-a204-4d1d05e206b9) | Remote (US); Washington DC | not_mentioned | no | 7 | 2026-09-08 |
@@ -72,8 +82,14 @@ Last updated 2026-10-30 03:33 UTC. Open jobs: 146 (policy research 46, energy po
 | The Brattle Group | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) | Washington, District of Columbia, United States; New York, New York, United States | not_mentioned | no |  | 2026-09-18 |
 | The Brattle Group | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) | New York, New York, United States; Washington, District of Columbia, United States | not_mentioned | no |  | 2026-09-18 |
 | The Brattle Group | [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) | San Francisco, California, United States | not_mentioned | no | 3 | 2026-10-14 |
+| careers.norc.org/en-us | [Graduate Research Assistant supporting the Bridge Department - Part-time](https://careers.norc.org/en-us/job/504015/graduate-research-assistant-supporting-the-bridge-department-parttime) | Chicago – Hyde Park, University of Chicago Campus, IL | not checked | yes |  |  |
 | BRG | [Fall 2027 Economic Consulting Associate](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Fall-2027-Economic-Consulting-Associate_JR100972) | Washington, DC; Tampa, FL; New York, NY (+5 more) | no_sponsorship | yes |  | 2026-09-02 |
+| careers.norc.org/en-us | [Research Associate I – Health Sciences Research - Washington DC Hybrid Office](https://careers.norc.org/en-us/job/504001/research-associate-i-health-sciences-research-washington-dc-hybrid-office) | Washington, DC | no_sponsorship | yes |  |  |
+| careers.rti.org | [Research Economist - U.S. Health Policy](https://careers.rti.org/jobs/13657?lang=en-us) | Durham, North Carolina; United States | no_sponsorship | yes |  | 2026-10-14 |
 | BRG | [Policy Analyst – Healthcare Transactions and Strategy](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Policy-Analyst---Healthcare-Transactions-and-Strategy_JR101220) | Washington, DC; Remote - USA | no_sponsorship | no | 5 | 2026-10-27 |
+| careers.rti.org | [Senior Research Economist - U.S. Health Policy](https://careers.rti.org/jobs/13656?lang=en-us) | Durham, North Carolina; United States | no_sponsorship | no | 12 | 2026-10-13 |
+| careers.norc.org/en-us | [Research Director I - Health Policy Specialist](https://careers.norc.org/en-us/job/503996/research-director-i-health-policy-specialist) | Chicago - 300 E Randolph St | citizen_or_clearance | yes | 4 |  |
+| The Cadmus Group, Inc. | [Water Policy Junior Analyst – Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/water-policy-junior-analyst-%e2%80%93-entry-level/job) | Arlington, VA, US; Boston, MA, US; Waltham, MA, US | citizen_or_clearance | yes |  | 2026-10-14 |
 | rand/wd5/External_Career_Site | [Information Scientist (Applied Technology Policy)](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/Information-Scientist--Applied-Technology-Policy-_R3628) |  | citizen_or_clearance | no |  |  |
 | rand/wd5/External_Career_Site | [RAND Summer Associate Program - POLICY Research](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) |  | citizen_or_clearance | no |  |  |
 
@@ -150,15 +166,17 @@ Last updated 2026-10-30 03:33 UTC. Open jobs: 146 (policy research 46, energy po
 | ProSidian Consulting, LLC | [Workforce Development Analyst / Energy Market Economic And Regulatory Analysis [DOEOP104109]](https://jobs.smartrecruiters.com/prosidianconsulting/744000028399356) | Washington, DC, United States | citizen_or_clearance | no |  | 2024-11-25 |
 | SOSi | [Energy Analyst](https://jobs.smartrecruiters.com/SOSi1/3743990015261556) | Fort Meade, MD, United States | citizen_or_clearance | no |  | 2026-09-15 |
 
-### Communications at policy institutions (3)
+### Communications at policy institutions (5)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
 | avalerehealth | [Corporate Marketing Communications Lead](https://jobs.lever.co/avalerehealth/3eb9ca83-01be-4a5f-b27c-9fd932acbeea) | New York, NY; Philadelphia, PA | not_mentioned | yes |  | 2026-08-24 |
 | New America | [Senior Communications Associate, Entertainment Initiative](https://newamerica.applytojob.com/apply/jobs/details/zgl7V11NXv) | Washington, DC | not_mentioned | yes | 3 | 2026-10-21 |
+| The Brookings Institution | [Media Relations Coordinator](https://careers-brookings.icims.com/jobs/3888/media-relations-coordinator-%28job-id%3a-2026-3888%29/job) | Washington, DC, US | not_mentioned | yes | 1 | 2026-08-11 |
+| careers.rti.org | [Vice President, Culture & Communications](https://careers.rti.org/jobs/13642?lang=en-us) | Durham, North Carolina | not_mentioned | no | 15 | 2026-10-06 |
 | American Institutes for Research | [Communications Specialist, Education Systems & Policy](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5460292008) | US-Remote; Remote (United States) | no_sponsorship | yes | 4 | 2026-10-26 |
 
-### Data and tech roles at policy institutions (29)
+### Data and tech roles at policy institutions (48)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
@@ -169,11 +187,19 @@ Last updated 2026-10-30 03:33 UTC. Open jobs: 146 (policy research 46, energy po
 | Charles River Associates | [Product Manager/Agile Master, AI and Digital Products](https://job-boards.greenhouse.io/charlesriverassociates/jobs/7983867) | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States (+4 more) | sponsors | no | 5 | 2026-06-16 |
 | rand/wd5/External_Career_Site | [AI/Bio Research Project Manager, Operations](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Bio-Research-Project-Manager--Operations_R3657) |  | unclear | no |  |  |
 | BRG | [AI Lab Infrastructure Engineer](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Remote---USA/Ai-Lab-Infrastructure-Engineer_JR100335) | Remote - USA | not_mentioned | yes |  | 2025-11-14 |
+| careers.rti.org | [Research Scientist-Patient-Centered Outcomes Assessment](https://careers.rti.org/jobs/13688?lang=en-us) | United States | not_mentioned | yes |  | 2026-10-27 |
+| careers.rti.org | [Senior Research Statistician](https://careers.rti.org/jobs/13519?lang=en-us) | Raleigh, North Carolina; United States; Durham, North Carolina | not_mentioned | yes | 3 | 2026-07-17 |
+| mathematica/4 | [Data Analytics Developer (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/315?c=mathematica) | Chicago, IL, US; Princeton, NJ, US; Washington, DC, US (+1 more) | not_mentioned | yes |  | 5/11/2026 |
+| mathematica/4 | [Data Scientist (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/390?c=mathematica) | Princeton, NJ, US; Washington, DC, US; US | not_mentioned | yes |  | 10/19/2026 |
+| mathematica/4 | [Digital Quality Measure Developer (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/381?c=mathematica) | Ann Arbor, MI, US; Cambridge, MA, US; Chicago, IL, US (+4 more) | not_mentioned | yes |  | 10/12/2026 |
+| mathematica/4 | [Sr. Data Analytics Developer (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/375?c=mathematica) | Chicago, IL, US; Princeton, NJ, US; Washington, DC, US (+1 more) | not_mentioned | yes |  | 9/16/2026 |
+| mathematica/4 | [Statistician, Healthcare Evaluation & Disability (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/387?c=mathematica) | Ann Arbor, MI, US; Cambridge, MA, US; Chicago, IL, US (+3 more) | not_mentioned | yes |  | 10/19/2026 |
 | avalerehealth | [Associate Director, Media Data Science](https://jobs.lever.co/avalerehealth/1d1f3668-f195-4074-902a-7623cbf81ea3) | New York, NY; Philadelphia, PA; Washington DC (+1 more) | not_mentioned | no | 6 | 2026-02-26 |
 | Code for America | [Lead Product Manager](https://job-boards.greenhouse.io/codeforamerica/jobs/7407338) | Remote (in the U.S.); Varies | not_mentioned | no | 7 | 2025-11-18 |
 | Code for America | [Principal Software Engineer](https://job-boards.greenhouse.io/codeforamerica/jobs/8174930) | Remote (in the U.S.); Varies | not_mentioned | no | 10 | 2026-09-11 |
 | Code for America | [Staff Data Engineer](https://job-boards.greenhouse.io/codeforamerica/jobs/8188375) | Remote (in the U.S.); Varies | not_mentioned | no | 7 | 2026-09-11 |
 | Code for America | [Staff Software Engineer](https://job-boards.greenhouse.io/codeforamerica/jobs/8165204) | Remote (in the U.S.); Varies | not_mentioned | no | 7 | 2026-08-31 |
+| careers.norc.org/en-us | [Data Analyst I or II - Statistics and Data Science research support](https://careers.norc.org/en-us/job/504011/data-analyst-i-or-ii-statistics-and-data-science-research-support) | Chicago - 300 E Randolph St | not checked | yes |  |  |
 | American Institutes for Research | [Data Scientist, Project Success and Innovation](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5454172008) | US-Remote; US-VA-Arlington; US-NC-Chapel Hill (+4 more) | no_sponsorship | yes |  | 2026-10-16 |
 | American Institutes for Research | [Quantitative Research Associate, Human and Community Development](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5450228008) | US-Remote; US-VA-Arlington; US-NC-Chapel Hill (+4 more) | no_sponsorship | yes | 2 | 2026-10-15 |
 | BRG | [Analyst, Data Analytics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Analyst--Data-Analytics_JR101209) | Washington, DC | no_sponsorship | yes | 2 | 2026-10-23 |
@@ -191,6 +217,17 @@ Last updated 2026-10-30 03:33 UTC. Open jobs: 146 (policy research 46, energy po
 | BRG | [Sr. Managing Consultant/Managing Consultant AI Architect - Financial Services Operations & Technology](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/New-York-NY/Sr-Managing-Consultant-Managing-Consultant-AI-Architect---Financial-Services-Operations---Technology_JR101200) |  | no_sponsorship | no |  | 2026-10-24 |
 | BRG | [Sr. Managing Consultant/Managing Consultant Data Engineer- Financial Services Operations & Technology](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/New-York-NY/Sr-Managing-Consultant-Managing-Consultant-Data-Engineer--Financial-Services-Operations---Technology_JR101194) |  | no_sponsorship | no |  | 2026-10-24 |
 | BRG | [Sr. Managing Consultant/Managing Consultant Full Stack Engineer- Financial Institution Operations & Technology](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/New-York-NY/Sr-Managing-Consultant-Managing-Consultant-Full-Stack-Engineer--Financial-Institution-Operations---Technology_JR101215) |  | no_sponsorship | no |  | 2026-10-27 |
+| careers.rti.org | [Research Data Scientist](https://careers.rti.org/jobs/13674?lang=en-us) | Any RTI Office, North Carolina; United States | no_sponsorship | no | 10 | 2026-10-19 |
+| The Cadmus Group, Inc. | [Data Analyst - Water Quality](https://careers-cadmusgroup.icims.com/jobs/3249/data-analyst---water-quality/job) | Arlington, VA, US; Boston, MA, US; Waltham, MA, US (+1 more) | citizen_or_clearance | yes | 2 | 2026-10-09 |
+| The Cadmus Group, Inc. | [Data Science Associate](https://careers-cadmusgroup.icims.com/jobs/3244/data-science-associate/job) | Arlington, VA, US; Boston, MA, US; Boulder, CO, US (+4 more) | citizen_or_clearance | yes | 0 | 2026-10-01 |
+| The Cadmus Group, Inc. | [Energy Data Analyst](https://careers-cadmusgroup.icims.com/jobs/3242/energy-data-analyst/job) | Boulder, CO, US; New York, NY, US; Portland, OR, US | citizen_or_clearance | yes | 0 | 2026-09-24 |
+| The Cadmus Group, Inc. | [Jr. Full Stack Developer](https://careers-cadmusgroup.icims.com/jobs/3255/jr.-full-stack-developer/job) |  | citizen_or_clearance | yes | 1 | 2026-10-28 |
+| The Cadmus Group, Inc. | [Senior Data Analyst](https://careers-cadmusgroup.icims.com/jobs/3245/senior-data-analyst/job) | Arlington, VA, US; Boston, MA, US; Boulder, CO, US (+4 more) | citizen_or_clearance | yes | 0 | 2026-10-01 |
+| The Cadmus Group, Inc. | [UX Researcher](https://careers-cadmusgroup.icims.com/jobs/3256/ux-researcher/job) |  | citizen_or_clearance | yes | 2 | 2026-10-28 |
+| The Cadmus Group, Inc. | [Senior Data Analyst](https://careers-cadmusgroup.icims.com/jobs/3236/senior-data-analyst/job) | McLean, VA, US | citizen_or_clearance | no | 10 | 2026-09-10 |
+| The Cadmus Group, Inc. | [Senior Full Stack Developer](https://careers-cadmusgroup.icims.com/jobs/3250/senior-full-stack-developer/job) |  | citizen_or_clearance | no | 6 | 2026-10-09 |
+| The Cadmus Group, Inc. | [Senior Full Stack Developer](https://careers-cadmusgroup.icims.com/jobs/3246/senior-full-stack-developer/job) |  | citizen_or_clearance | no | 6 | 2026-10-05 |
+| The Cadmus Group, Inc. | [Technical Project Manager - Machine Learning & Data Science](https://careers-cadmusgroup.icims.com/jobs/3212/technical-project-manager---machine-learning-%26-data-science/job) |  | citizen_or_clearance | no | 5 | 2026-08-11 |
 
 ## How it is made
 
