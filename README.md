@@ -2,7 +2,7 @@
 
 Open US jobs in policy research, energy policy and communications at policy institutions, plus data and tech roles at those institutions. Read every day from the employers' own career sites and labelled for visa sponsorship and entry level.
 
-Last updated 2026-10-30 03:14 UTC. Open jobs: 127 (policy research 27, energy policy 68, communications at policy institutions 3, data and tech roles at policy institutions 29).
+Last updated 2026-10-30 03:33 UTC. Open jobs: 146 (policy research 46, energy policy 68, communications at policy institutions 3, data and tech roles at policy institutions 29).
 
 ## Files
 
@@ -26,7 +26,7 @@ Last updated 2026-10-30 03:14 UTC. Open jobs: 127 (policy research 27, energy po
 
 ## Open jobs
 
-### Policy research (27)
+### Policy research (46)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
@@ -40,14 +40,31 @@ Last updated 2026-10-30 03:14 UTC. Open jobs: 127 (policy research 27, energy po
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720832005) | Chicago, Illinois, United States; Boston, Massachusetts, United States; New York, New York, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005) | New York, New York, United States; Boston, Massachusetts, United States; Chicago, Illinois, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
+| Center for Global Development | [Fellow/Senior Fellow, Market Shaping Accelerator](https://centerforglobaldevelopment.applytojob.com/apply/jobs/details/nDb6lMwpMb) | Washington, DC | sponsors | no | 5 | 2026-08-07 |
+| Center for Global Development | [Policy Fellow - Market Shaping Accelerator](https://centerforglobaldevelopment.applytojob.com/apply/jobs/details/P4s4wWPxHN) | Washington, DC | sponsors | no | 12 | 2026-10-20 |
+| Center for Global Development | [Policy Fellow – AI Initiative - DC or London](https://centerforglobaldevelopment.applytojob.com/apply/jobs/details/DLfYmRjhBO) | Washington, DC | sponsors | no | 12 | 2026-10-14 |
 | cnas | [Research Assistant/Associate](https://cnas.bamboohr.com/careers/136) | Washington, District of Columbia, United States | unclear | yes | 2 | 2026-07-15 |
 | Charles River Associates | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States (+6 more) | unclear | no |  | 2026-08-28 |
+| FAS | [Policy Entrepreneurship, Manager/Senior Manager](https://fas.applytojob.com/apply/jobs/details/Gvh3qKMaXK) | Washington DC, DC | unclear | no | 8 | 2026-10-16 |
+| georgetown/wd1/Georgetown_Admin_Careers | [Research Finance & Operations Coordinator - McCourt School of Public Policy - Georgetown University](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/125-E-St-NW-5th-Floor/Research-Finance---Operations-Coordinator---McCourt-School-of-Public-Policy---Georgetown-University_JR27899) | 125 E St NW 5th Floor | unclear | no |  | 2026-10-22 |
+| nreca/wd1/External | [Regulatory Affairs Director, Large Loads and Market Policy](https://nreca.wd1.myworkdayjobs.com/External/job/Arlington-VA/Regulatory-Affairs-Director--Large-Loads-and-Market-Policy_R2026-922) | Arlington, VA | unclear | no |  | 2026-09-30 |
+| avalerehealth | [Consultant, Policy](https://jobs.lever.co/avalerehealth/4b3acfec-d214-4663-9448-2bcca3108963) | Remote (US); Washington DC | not_mentioned | yes | 4 | 2026-07-24 |
+| avalerehealth | [Consultant, Policy (Vaccines)- U.S. Based- REMOTE WORKING OPPORTUNITY](https://jobs.lever.co/avalerehealth/de313ad9-02a4-4c61-941b-3a47665eb715) | Remote (US); Washington DC | not_mentioned | yes | 4 | 2026-07-24 |
 | georgetown/wd1/Georgetown_Admin_Careers | [Clinical Research Associate](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Medical-Center/Clinical-Research-Associate_JR25746-1) | Medical Center | not_mentioned | yes |  | 2026-10-28 |
 | Pew Research Center | [Research Assistant, Global Attitudes](https://pewtrusts.wd5.myworkdayjobs.com/CenterExternal/job/Washington-DC-Pew-Research-Center/Research-Assistant--Global-Attitudes_R003309) | Washington, DC (Pew Research Center) | not_mentioned | yes |  | 2026-10-23 |
 | Pew Research Center | [Research Associate, U.S. Demography, Race & Ethnicity](https://pewtrusts.wd5.myworkdayjobs.com/CenterExternal/job/Washington-DC-Pew-Research-Center/Research-Associate--US-Demography--Race---Ethnicity_R003304) | Washington, DC (Pew Research Center) | not_mentioned | yes | 3 | 2026-10-07 |
 | urban/wd115/Urban-Careers | [Research Assistant – Quantitative (Health, Income, and Benefits Policy Division)](https://urban.wd115.myworkdayjobs.com/Urban-Careers/job/The-Urban-Institute-DC/Research-Assistant---Quantitative--Health--Income--and-Benefits-Policy-Division-_R-801655) | The Urban Institute (DC) | not_mentioned | yes | 1 | 2026-10-23 |
+| avalerehealth | [Associate Principal, Policy (Vaccines)- Remote US Work role](https://jobs.lever.co/avalerehealth/412e86d3-8aa9-47c0-8ad9-a5b615990336) | Remote (US); Washington DC | not_mentioned | no | 6 | 2026-09-18 |
+| avalerehealth | [Associate Principal, Policy- Drug Pricing (U.S. Based- REMOTE WORK)](https://jobs.lever.co/avalerehealth/5408e673-2063-440e-a204-4d1d05e206b9) | Remote (US); Washington DC | not_mentioned | no | 7 | 2026-09-08 |
+| avalerehealth | [Principal, Policy (Medicare Part B) Remote working location](https://jobs.lever.co/avalerehealth/3e1ba274-3939-4d6d-b24a-027f4f49ee05) | Remote (US); Washington DC | not_mentioned | no | 10 | 2026-02-24 |
+| fas | [Fisheries Fellow](https://fas.applytojob.com/apply/jobs/details/KRZmXXED18) | United States | not_mentioned | no |  |  |
+| FAS | [Senior Advisor, Science Policy – Independent Consultant](https://fas.applytojob.com/apply/jobs/details/Vg5H1WEgkl) | Washington DC, DC | not_mentioned | no | 7 | 2026-10-16 |
+| georgetown/wd1/Georgetown_Admin_Careers | [Human Resources Policy & Procedures Specialist](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/2115-Wisconsin-Avenue/Human-Resources-Policy---Procedures-Specialist_JR27579-1) | 2115 Wisconsin Avenue | not_mentioned | no |  |  |
+| georgetown/wd1/Georgetown_Admin_Careers | [Policy Director, Economic Dignity Lab - McCourt School of Public Policy - Georgetown University](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/125-E-St-NW-1st-Floor/Policy-Director--Economic-Dignity-Lab---McCourt-School-of-Public-Policy---Georgetown-University_JR27896) | 125 E St NW 1st Floor | not_mentioned | no |  | 2026-10-22 |
 | georgetown/wd1/Georgetown_Admin_Careers | [Research Assistant](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Medical-Center/Research-Assistant_JR27965) | Medical Center | not_mentioned | no |  | 2026-10-30 |
 | georgetown/wd1/Georgetown_Admin_Careers | [Senior Research Assistant](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Medical-Center/Senior-Research-Assistant_JR27811-1) | Medical Center | not_mentioned | no |  | 2026-10-14 |
+| rand/wd5/External_Career_Site | [Education Policy Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/Education-Policy-Researcher_R3667-1) |  | not_mentioned | no |  |  |
+| rand/wd5/External_Career_Site | [Health Policy Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/Health-Policy-Researcher_R3666) |  | not_mentioned | no |  |  |
 | The Brattle Group | [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735792005) | Washington, District of Columbia, United States; New York, New York, United States | not_mentioned | no |  | 2026-09-18 |
 | The Brattle Group | [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) | New York, New York, United States; Washington, District of Columbia, United States | not_mentioned | no |  | 2026-09-18 |
 | The Brattle Group | [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) | San Francisco, California, United States; Washington, District of Columbia, United States | not_mentioned | no |  | 2026-09-18 |
@@ -57,6 +74,8 @@ Last updated 2026-10-30 03:14 UTC. Open jobs: 127 (policy research 27, energy po
 | The Brattle Group | [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) | San Francisco, California, United States | not_mentioned | no | 3 | 2026-10-14 |
 | BRG | [Fall 2027 Economic Consulting Associate](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Fall-2027-Economic-Consulting-Associate_JR100972) | Washington, DC; Tampa, FL; New York, NY (+5 more) | no_sponsorship | yes |  | 2026-09-02 |
 | BRG | [Policy Analyst – Healthcare Transactions and Strategy](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Policy-Analyst---Healthcare-Transactions-and-Strategy_JR101220) | Washington, DC; Remote - USA | no_sponsorship | no | 5 | 2026-10-27 |
+| rand/wd5/External_Career_Site | [Information Scientist (Applied Technology Policy)](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/Information-Scientist--Applied-Technology-Policy-_R3628) |  | citizen_or_clearance | no |  |  |
+| rand/wd5/External_Career_Site | [RAND Summer Associate Program - POLICY Research](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) |  | citizen_or_clearance | no |  |  |
 
 ### Energy policy (68)
 
