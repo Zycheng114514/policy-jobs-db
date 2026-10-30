@@ -2,7 +2,7 @@
 
 Open US jobs in policy research, energy policy and communications at policy institutions, plus data and tech roles at those institutions. Read every day from the employers' own career sites and labelled for visa sponsorship and entry level.
 
-Last updated 2026-10-30 03:01 UTC. Open jobs: 125 (policy research 26, energy policy 68, communications at policy institutions 2, data and tech roles at policy institutions 29).
+Last updated 2026-10-30 03:14 UTC. Open jobs: 127 (policy research 27, energy policy 68, communications at policy institutions 3, data and tech roles at policy institutions 29).
 
 ## Files
 
@@ -26,7 +26,7 @@ Last updated 2026-10-30 03:01 UTC. Open jobs: 125 (policy research 26, energy po
 
 ## Open jobs
 
-### Policy research (26)
+### Policy research (27)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
@@ -40,6 +40,7 @@ Last updated 2026-10-30 03:01 UTC. Open jobs: 125 (policy research 26, energy po
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720832005) | Chicago, Illinois, United States; Boston, Massachusetts, United States; New York, New York, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005) | New York, New York, United States; Boston, Massachusetts, United States; Chicago, Illinois, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
+| cnas | [Research Assistant/Associate](https://cnas.bamboohr.com/careers/136) | Washington, District of Columbia, United States | unclear | yes | 2 | 2026-07-15 |
 | Charles River Associates | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States (+6 more) | unclear | no |  | 2026-08-28 |
 | georgetown/wd1/Georgetown_Admin_Careers | [Clinical Research Associate](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Medical-Center/Clinical-Research-Associate_JR25746-1) | Medical Center | not_mentioned | yes |  | 2026-10-28 |
 | Pew Research Center | [Research Assistant, Global Attitudes](https://pewtrusts.wd5.myworkdayjobs.com/CenterExternal/job/Washington-DC-Pew-Research-Center/Research-Assistant--Global-Attitudes_R003309) | Washington, DC (Pew Research Center) | not_mentioned | yes |  | 2026-10-23 |
@@ -130,11 +131,12 @@ Last updated 2026-10-30 03:01 UTC. Open jobs: 125 (policy research 26, energy po
 | ProSidian Consulting, LLC | [Workforce Development Analyst / Energy Market Economic And Regulatory Analysis [DOEOP104109]](https://jobs.smartrecruiters.com/prosidianconsulting/744000028399356) | Washington, DC, United States | citizen_or_clearance | no |  | 2024-11-25 |
 | SOSi | [Energy Analyst](https://jobs.smartrecruiters.com/SOSi1/3743990015261556) | Fort Meade, MD, United States | citizen_or_clearance | no |  | 2026-09-15 |
 
-### Communications at policy institutions (2)
+### Communications at policy institutions (3)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
 | avalerehealth | [Corporate Marketing Communications Lead](https://jobs.lever.co/avalerehealth/3eb9ca83-01be-4a5f-b27c-9fd932acbeea) | New York, NY; Philadelphia, PA | not_mentioned | yes |  | 2026-08-24 |
+| New America | [Senior Communications Associate, Entertainment Initiative](https://newamerica.applytojob.com/apply/jobs/details/zgl7V11NXv) | Washington, DC | not_mentioned | yes | 3 | 2026-10-21 |
 | American Institutes for Research | [Communications Specialist, Education Systems & Policy](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5460292008) | US-Remote; Remote (United States) | no_sponsorship | yes | 4 | 2026-10-26 |
 
 ### Data and tech roles at policy institutions (29)
