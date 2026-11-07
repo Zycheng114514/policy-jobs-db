@@ -2,7 +2,7 @@
 
 Open US jobs in policy research, energy policy and communications at policy institutions, plus data and tech roles at those institutions. Read every day from the employers' own career sites and labelled for visa sponsorship and entry level.
 
-Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy policy 97, communications at policy institutions 11, data and tech roles at policy institutions 55).
+Last updated 2026-11-07 16:17 UTC. Open jobs: 306 (policy research 134, energy policy 104, communications at policy institutions 11, data and tech roles at policy institutions 57).
 
 ## Files
 
@@ -26,7 +26,7 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 
 ## Open jobs
 
-### Policy research (132)
+### Policy research (134)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
@@ -48,6 +48,7 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005) | Washington, District of Columbia, United States; Boston, Massachusetts, United States; Chicago, Illinois, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
 | The Brattle Group | [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005) | New York, New York, United States; Boston, Massachusetts, United States; Chicago, Illinois, United States (+1 more) | sponsors | yes |  | 2026-08-14 |
+| Center for Global Development | [Fellow/Senior Fellow, Market Shaping Accelerator](https://centerforglobaldevelopment.applytojob.com/apply/jobs/details/nDb6lMwpMb) | Washington, DC | sponsors | no | 5 | 2026-11-06 |
 | Center for Global Development | [Policy Fellow - Market Shaping Accelerator](https://centerforglobaldevelopment.applytojob.com/apply/jobs/details/P4s4wWPxHN) | Washington, DC | sponsors | no | 12 | 2026-10-20 |
 | Charles River Associates | [Associate Principal (Intellectual Property practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5592083) | Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States (+1 more) | sponsors | no | 7 | 2024-04-03 |
 | Charles River Associates | [Associate Principal/Cybersecurity & Incident Response (Forensic Services practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4208441) | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States (+2 more) | sponsors | no | 7 | 2022-05-12 |
@@ -71,6 +72,7 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | BRG | [Senior Associate, Forensic Accounting & Commercial Damages](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Emeryville-CA/Senior-Associate--Forensic-Accounting---Commercial-Damages_JR101226) | Emeryville, CA | not_mentioned | yes | 2 | 2026-10-29 |
 | BRG | [Senior Associate, Investigations & Forensic Accounting](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/New-York-NY/Senior-Associate--Investigations---Forensic-Accounting_JR101225) | New York, NY; Houston, TX; Chicago, IL | not_mentioned | yes | 2 | 2026-10-29 |
 | Center for Strategic and International Studies, Inc. | [Deputy Director & Labor Impacts Senior Fellow](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4448557009) | Washington, D.C.; Senior Staff (Fellow and above) | not_mentioned | yes |  | 2026-10-21 |
+| Center for Strategic and International Studies, Inc. | [Research Assistant,  Defense Analysis Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469940009) | Washington, D.C.; Program Staff/Operations Staff | not_mentioned | yes | 1 | 2026-11-06 |
 | Charles River Associates | [Associate Principal (Antitrust & Competition Economics practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/1064050) | Oakland, CA, United States; Boston, MA, United States; Chicago, IL, United States (+3 more) | not_mentioned | yes | 3 | 2024-12-21 |
 | georgetown/wd1/Georgetown_Admin_Careers | [Clinical Research Associate](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Medical-Center/Clinical-Research-Associate_JR25746-1) | Medical Center | not_mentioned | yes | 5 | 2026-10-27 |
 | georgetown/wd1/Georgetown_Admin_Careers | [Research Assistant](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Medical-Center/Research-Assistant_JR27965) | Medical Center | not_mentioned | yes | 1 | 2026-10-29 |
@@ -96,10 +98,10 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | The Brattle Group | [Associate, MBA - Economics/Finance](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4725704005) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States (+2 more) | not_mentioned | yes |  | 2026-08-21 |
 | The Brookings Institution | [Project Manager and Research Analyst](https://careers-brookings.icims.com/jobs/3920/project-manager-and-research-analyst-%28job-id%3a-2026-3920%29/job) | Washington, DC, US | not_mentioned | yes | 4 | 2026-10-13 |
 | urban/wd115/Urban-Careers | [Research Assistant – Quantitative (Health, Income, and Benefits Policy Division)](https://urban.wd115.myworkdayjobs.com/Urban-Careers/job/The-Urban-Institute-DC/Research-Assistant---Quantitative--Health--Income--and-Benefits-Policy-Division-_R-801655) | The Urban Institute (DC) | not_mentioned | yes | 1 | 2026-10-23 |
-| AEI | [Spring Intern: Center for Technology, Science, and Energy – Science Policy](https://internships-aei.icims.com/jobs/2691/spring-intern%3a-center-for-technology%2c-science%2c-and-energy-%e2%80%93-science-policy/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
-| AEI | [Spring Intern: Center for Technology, Science, and Energy – Technology Policy](https://internships-aei.icims.com/jobs/2692/spring-intern%3a-center-for-technology%2c-science%2c-and-energy-%e2%80%93-technology-policy/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
-| AEI | [Spring Intern: Economic Policy](https://internships-aei.icims.com/jobs/2670/spring-intern%3a-economic-policy/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
-| AEI | [Spring Intern: Education Policy](https://internships-aei.icims.com/jobs/2698/spring-intern%3a-education-policy/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
+| AEI | [Spring Intern: Center for Technology, Science, and Energy – Science Policy](https://internships-aei.icims.com/jobs/2691/spring-intern%3a-center-for-technology%2c-science%2c-and-energy-%e2%80%93-science-policy/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
+| AEI | [Spring Intern: Center for Technology, Science, and Energy – Technology Policy](https://internships-aei.icims.com/jobs/2692/spring-intern%3a-center-for-technology%2c-science%2c-and-energy-%e2%80%93-technology-policy/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
+| AEI | [Spring Intern: Economic Policy](https://internships-aei.icims.com/jobs/2670/spring-intern%3a-economic-policy/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
+| AEI | [Spring Intern: Education Policy](https://internships-aei.icims.com/jobs/2698/spring-intern%3a-education-policy/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
 | avalerehealth | [Associate Principal, Policy (Medicare Part B) Remote working location](https://jobs.lever.co/avalerehealth/3e1ba274-3939-4d6d-b24a-027f4f49ee05) | Remote (US); Washington DC | not_mentioned | no | 7 | 2026-02-24 |
 | avalerehealth | [Associate Principal, Policy (Vaccines)- Remote US Work role](https://jobs.lever.co/avalerehealth/412e86d3-8aa9-47c0-8ad9-a5b615990336) | Remote (US); Washington DC | not_mentioned | no | 6 | 2026-09-18 |
 | BRG | [Associate Director - Retail Performance Improvement](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Boston-MA/Associate-Director---Retail-Performance-Improvement_JR100088) | Boston, MA; New York, NY; Chicago, IL (+1 more) | not_mentioned | no | 9 | 2026-08-28 |
@@ -148,7 +150,6 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | BRG | [Senior Associate-Consultant - Corporate Finance - Healthcare Transaction Advisory](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Nashville-TN/Senior-Associate-Consultant---Corporate-Finance---Healthcare-Transaction-Advisory_JR100213) | Nashville, TN; New York, NY; Boston, MA | no_sponsorship | yes | 3 | 2026-08-28 |
 | careers.norc.org/en-us | [Research Associate I – Health Sciences Research - Chicago Loop Hybrid Office](https://careers.norc.org/en-us/job/504000/research-associate-i-health-sciences-research-chicago-loop-hybrid-office) | Chicago - 300 E Randolph St | no_sponsorship | yes |  |  |
 | careers.norc.org/en-us | [Research Associate I – Health Sciences Research - Washington DC Hybrid Office](https://careers.norc.org/en-us/job/504001/research-associate-i-health-sciences-research-washington-dc-hybrid-office) | Washington, DC | no_sponsorship | yes |  |  |
-| RTI International | [Research Economist - U.S. Health Policy](https://careers.rti.org/jobs/13657?lang=en-us) | Durham, North Carolina; United States | no_sponsorship | yes |  | 2026-10-14 |
 | BRG | [Associate Director - Corporate Finance - Valuation](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Boston-MA/Associate-Director---Corporate-Finance---Valuation_JR101233) | Boston, MA | no_sponsorship | no | 8 | 2026-10-29 |
 | BRG | [Associate Director - Financial Institutions Advisory](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Associate-Director---Financial-Institutions-Advisory_JR101171) | Washington, DC; New York, NY | no_sponsorship | no | 10 | 2026-10-14 |
 | BRG | [Associate Director / Senior Managing Consultant - Financial Institution Operations & Technology](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/New-York-NY/Associate-Director---Senior-Managing-Consultant---Financial-Services-Operations---Technology_JR101198) | New York, NY; Boston, MA; Chicago, IL (+1 more) | no_sponsorship | no | 10 | 2026-11-05 |
@@ -156,6 +157,7 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | BRG | [Associate Director – Finance Excellence – (Strategic Performance Solutions)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/New-York-NY/Associate-Director---Finance-Excellence----Strategic-Performance-Solutions-_JR101178) | New York, NY; Boston, MA | no_sponsorship | no | 8 | 2026-10-29 |
 | BRG | [Associate Director – Finance Excellence – (Strategic Performance Solutions)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/New-York-NY/Associate-Director---Finance-Excellence----Strategic-Performance-Solutions-_JR101177) | New York, NY; Boston, MA | no_sponsorship | no | 8 | 2026-10-29 |
 | BRG | [Policy Analyst – Healthcare Transactions and Strategy](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Policy-Analyst---Healthcare-Transactions-and-Strategy_JR101220) | Washington, DC; Remote - USA | no_sponsorship | no | 5 | 2026-10-27 |
+| RTI International | [PhD-level Research Economist - U.S. Health Policy](https://careers.rti.org/jobs/13657?lang=en-us) | Durham, North Carolina; United States | no_sponsorship | no |  | 2026-10-14 |
 | RTI International | [Senior Research Economist - U.S. Health Policy](https://careers.rti.org/jobs/13656?lang=en-us) | Durham, North Carolina; United States | no_sponsorship | no | 12 | 2026-10-13 |
 | careers.norc.org/en-us | [Research Director I - Health Policy/Regulations Specialist](https://careers.norc.org/en-us/job/504049/research-director-i-health-policyregulations-specialist) | Washington, DC | citizen_or_clearance | yes | 4 |  |
 | careers.norc.org/en-us | [Research Director I - Health Policy/Regulations Specialist - Chicago Office](https://careers.norc.org/en-us/job/503996/research-director-i-health-policyregulations-specialist-chicago-office) | Chicago - 300 E Randolph St | citizen_or_clearance | yes | 4 |  |
@@ -163,7 +165,7 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | rand/wd5/External_Career_Site | [Information Scientist (Applied Technology Policy)](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/Information-Scientist--Applied-Technology-Policy-_R3628) | Washington, DC (DC Metro Area); Pittsburgh, PA; Santa Monica, CA (Greater Los Angeles Area) | citizen_or_clearance | no | 5 | 2026-10-19 |
 | rand/wd5/External_Career_Site | [RAND Summer Associate Program - POLICY Research](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) | Santa Monica, CA (Greater Los Angeles Area); Pittsburgh, PA; Boston, MA (+2 more) | citizen_or_clearance | no |  | 2026-10-16 |
 
-### Energy policy (97)
+### Energy policy (104)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
@@ -197,18 +199,21 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | ENFRA LLC | [Utility Analyst I](https://careers-enfra.icims.com/jobs/11611/utility-analyst-i/job) | Little Rock, AR, US | not_mentioned | yes | 0 | 2026-10-20 |
 | Integrated Resources INC | [Energy Analyst](https://jobs.smartrecruiters.com/IntegratedResourcesINC/92068547) | Tampa, FL, United States | not_mentioned | yes |  | 2016-05-09 |
 | Mesa Energy Systems, Inc. | [Energy Analyst - Commercial HVAC](https://careers-emcorgroup.icims.com/jobs/54036/energy-analyst---commercial-hvac/job) | Onsite | not_mentioned | yes | 1 | 2026-10-28 |
+| ONEOK | [Energy Management Systems Analyst](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/Energy-Management-Systems-Analyst_R9120) | Tulsa, OK | not_mentioned | yes | 1 | 2026-11-05 |
 | PJM | [(Sr.) (Lead) (Principal) Energy Analyst/Engineer (II)](https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/XMLNAME--Sr---Lead---Principal--Energy-Analyst-Engineer--II-_REQ-2026-4244-1) | Audubon, PA | not_mentioned | yes | 3 | 2026-09-02 |
+| QTS | [Energy Transactions Analyst](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-TX-Irving-1-DC1/Energy-Transactions-Analyst_R2026-2430-1) | US TX Irving 1 DC1 | not_mentioned | yes | 2 | 2026-11-06 |
 | Trio | [Energy Analyst](https://jobs.lever.co/trio/21f7e6e8-1357-4c31-a04c-36f1e48853a8) | Dublin, Ohio | not_mentioned | yes | 0 | 2026-06-10 |
 | Wood Mackenzie | [Renewable Cost Analyst](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Renewable-Cost-Analyst_JR3417) | Boston, US | not_mentioned | yes |  | 2026-11-05 |
 | Wood Mackenzie | [Research Analyst - Power Market](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Gurugram-IN/Research-Analyst---Power-Market_JR3402) | Gurugram, IN | not_mentioned | yes | 3 | 2026-10-05 |
 | Yes Energy | [Power Market Data & Modeling Analyst II – Model Ready Data Team](https://job-boards.greenhouse.io/yesenergy/jobs/5462486008) | Newton, Massachusetts, United States; Newton, Massachusetts | not_mentioned | yes |  | 2026-10-29 |
-| AEI | [Spring Intern: Energy and Climate Policy](https://internships-aei.icims.com/jobs/2694/spring-intern%3a-energy-and-climate-policy/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
+| AEI | [Spring Intern: Energy and Climate Policy](https://internships-aei.icims.com/jobs/2694/spring-intern%3a-energy-and-climate-policy/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
+| American Electric Power | [Commercial Energy Supply Analyst Sr. / Commercial Operations](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Commercial-Energy-Supply-Analyst-Sr---Commercial-Operations_R20729) | Columbus, OH | not_mentioned | no | 7 | 2026-11-05 |
 | Antora Energy | [Director of Grid Policy](https://job-boards.greenhouse.io/antora/jobs/6128211004) | Remote, USA; Remote - US | not_mentioned | no | 8 | 2026-07-29 |
 | Brookhaven Lab | [Research Associate - Electrochemical Energy Storage](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate---Electrochemical-Energy-Storage_JR102313) | Upton, NY | not_mentioned | no | 5 | 2026-09-29 |
 | Central Hudson | [Energy Policy & Regulation Intern](https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Poughkeepsie/Energy-Policy---Regulation-Intern_R2143) | Poughkeepsie | not_mentioned | no |  | 2026-09-11 |
 | Citi | [Operational Risk Manager - Platform Utilities and Infrastructure Analyst-VP](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Operational-Risk-Manager---Platform-Utilities-and-Infrastructure-Analyst-VP_26994689) | Getzville New York United States | not_mentioned | no | 6 | 2026-10-16 |
 | Citi | [Operational Risk Manager - Platform Utilities and Infrastructure Analyst-VP](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Operational-Risk-Manager---Platform-Utilities-and-Infrastructure-Analyst-VP_26989314) | Getzville New York United States | not_mentioned | no | 6 | 2026-10-19 |
-| Consolidated Edison | [Energy Storage Contract Planning Analyst](https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000279) | New York, NY, United States | not_mentioned | no |  | 2026-10-21 |
+| ENFRA LLC | [Energy Systems Analyst III](https://careers-enfra.icims.com/jobs/11730/energy-systems-analyst-iii/job) | Charlotte, NC, US | not_mentioned | no | 5 | 2026-11-05 |
 | Huntington Bancshares | [Power Market and Technical Diligence Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Denver-CO/Power-Market-and-Technical-Diligence-Analyst_R0076581-1) | Denver, CO; Chicago, IL; Pittsburgh, PA (+8 more) | not_mentioned | no | 5 | 2026-10-30 |
 | ICF International | [Senior Energy Transmission Regulatory Specialist](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Sacramento-CA/Senior-Energy-Transmission-Regulatory-Specialist_R2603055) | Sacramento, CA; San Francisco, CA | not_mentioned | no | 8 | 2026-10-09 |
 | ProSidian Consulting, LLC | [Mid Level Energy Programs Regulatory Advisor](https://jobs.smartrecruiters.com/prosidianconsulting/743999664070709) | Washington, DC, United States | not_mentioned | no |  | 2017-12-22 |
@@ -225,9 +230,13 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | Dewberry | [Subsurface Utility Engineering (SUE) Utility Analyst](https://careers-dewberry.icims.com/jobs/16465/subsurface-utility-engineering-%28sue%29-utility-analyst/job) | Gainesville, VA, US | no_sponsorship | yes |  | 2026-10-13 |
 | Dewberry | [Subsurface Utility Engineering (SUE) Utility Analyst](https://careers-dewberry.icims.com/jobs/16300/subsurface-utility-engineering-%28sue%29-utility-analyst/job) | Charlotte, NC, US | no_sponsorship | yes |  | 2026-09-02 |
 | Dewberry | [Subsurface Utility Engineering (SUE) Utility Analyst](https://careers-dewberry.icims.com/jobs/15883/subsurface-utility-engineering-%28sue%29-utility-analyst/job) | Gainesville, VA, US | no_sponsorship | yes |  | 2026-06-15 |
+| Idaho Power | [GIS Utility Model Analyst or Senior](https://idahopowercompany.wd1.myworkdayjobs.com/external/job/Boise-ID/GIS-Utility-Model-Analyst-or-Senior_R0005018) | Boise, ID | no_sponsorship | yes | 1 | 2026-11-05 |
 | GE Vernova | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-2) | Schenectady | no_sponsorship | no |  | 2026-10-09 |
 | GE Vernova | [Lead Energy Technology Analyst](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/Lead-Energy-Technology-Analyst_R5056535-2) | Schenectady; Cambridge; Greenville (+1 more) | no_sponsorship | no | 5 | 2026-10-21 |
 | ProSidian Consulting, LLC | [Energy Systems Modeler / Energy Market Economic And Regulatory Analysis [DOEOP098103]](https://jobs.smartrecruiters.com/prosidianconsulting/744000028543315) | Washington, DC, United States | no_sponsorship | no |  | 2024-11-26 |
+| AeroVironment | [Directed Energy Materials Planning Analyst](https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Directed-Energy-Materials-Planning-Analyst_9302) | Albuquerque, NM | citizen_or_clearance | yes | 4 | 2026-11-06 |
+| AeroVironment | [Directed Energy Materials Planning Analyst](https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Directed-Energy-Materials-Planning-Analyst_9305) | Albuquerque, NM | citizen_or_clearance | yes | 4 | 2026-11-06 |
+| AeroVironment | [Directed Energy Materials Planning Associate Analyst](https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Directed-Energy-Materials-Planning-Associate-Analyst_9308) | Albuquerque, NM | citizen_or_clearance | yes | 1 | 2026-11-06 |
 | Booz Allen | [Oil and Gas Energy Analyst](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Riverdale-MD/Oil-and-Gas-Energy-Analyst_R0248594) | Riverdale, MD | citizen_or_clearance | yes | 3 | 2026-09-02 |
 | The Cadmus Group, Inc. | [Building Decarbonization Analyst](https://careers-cadmusgroup.icims.com/jobs/3261/building-decarbonization-analyst/job) | New York, NY, US | citizen_or_clearance | yes | 2 | 2026-11-03 |
 | The Cadmus Group, Inc. | [Clean Energy Analyst - Engineer](https://careers-cadmusgroup.icims.com/jobs/3262/clean-energy-analyst---engineer/job) | Boulder, CO, US; Boston, MA, US; Arlington, VA, US (+3 more) | citizen_or_clearance | yes | 2 | 2026-11-03 |
@@ -272,16 +281,16 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | avalerehealth | [Senior Editorial Project Specialist](https://jobs.lever.co/avalerehealth/98de9daf-8b13-4443-8053-6eaa4f27aea1) | Philadelphia, PA; Washington DC | not_mentioned | yes | 2 | 2026-10-28 |
 | New America | [Senior Communications Associate, Entertainment Initiative](https://newamerica.applytojob.com/apply/jobs/details/zgl7V11NXv) | Washington, DC | not_mentioned | yes | 3 | 2026-10-21 |
 | The Brookings Institution | [Media Relations Coordinator](https://careers-brookings.icims.com/jobs/3888/media-relations-coordinator-%28job-id%3a-2026-3888%29/job) | Washington, DC, US | not_mentioned | yes | 1 | 2026-08-11 |
-| AEI | [Spring Intern: Communications and Marketing Systems](https://internships-aei.icims.com/jobs/2668/spring-intern%3a-communications-and-marketing-systems/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
-| AEI | [Spring Intern: Critical Threats Project - Communications and Operations](https://internships-aei.icims.com/jobs/2677/spring-intern%3a-critical-threats-project---communications-and-operations/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
-| AEI | [Spring Intern: Media Relations](https://internships-aei.icims.com/jobs/2663/spring-intern%3a-media-relations/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
-| AEI | [Spring Intern: US Foreign Policy and Communications](https://internships-aei.icims.com/jobs/2681/spring-intern%3a-us-foreign-policy-and-communications/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
+| AEI | [Spring Intern: Communications and Marketing Systems](https://internships-aei.icims.com/jobs/2668/spring-intern%3a-communications-and-marketing-systems/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
+| AEI | [Spring Intern: Critical Threats Project - Communications and Operations](https://internships-aei.icims.com/jobs/2677/spring-intern%3a-critical-threats-project---communications-and-operations/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
+| AEI | [Spring Intern: Media Relations](https://internships-aei.icims.com/jobs/2663/spring-intern%3a-media-relations/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
+| AEI | [Spring Intern: US Foreign Policy and Communications](https://internships-aei.icims.com/jobs/2681/spring-intern%3a-us-foreign-policy-and-communications/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
 | Center for Strategic and International Studies, Inc. | [Intern, Communications (Spring 2027)](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4467776009) | Washington, D.C.; Interns | not_mentioned | no |  | 2026-10-27 |
 | Partnership for Public Service | [Policy Communications Manager](https://job-boards.greenhouse.io/partnershipforpublicservice/jobs/4473877009) | Washington, DC | not_mentioned | no | 5 | 2026-10-30 |
 | RTI International | [Vice President, Culture & Communications](https://careers.rti.org/jobs/13642?lang=en-us) | Durham, North Carolina | not_mentioned | no | 15 | 2026-10-06 |
 | American Institutes for Research | [Communications Specialist, Education Systems & Policy](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5460292008) | US-Remote; Remote (United States) | no_sponsorship | yes | 4 | 2026-10-26 |
 
-### Data and tech roles at policy institutions (55)
+### Data and tech roles at policy institutions (57)
 
 | Company | Title | Location | Sponsorship | Applicable | Years | Posted |
 |---|---|---|---|---|---|---|
@@ -302,7 +311,7 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | mathematica/4 | [Sr. Data Analytics Developer (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/375?c=mathematica) | Chicago, IL, US; Princeton, NJ, US; Washington, DC, US (+1 more) | not_mentioned | yes |  | 9/16/2026 |
 | mathematica/4 | [Statistician, Healthcare Evaluation & Disability (Remote Eligible)](https://mathematica.csod.com/ux/ats/careersite/4/job/387?c=mathematica) | Ann Arbor, MI, US; Cambridge, MA, US; Chicago, IL, US (+3 more) | not_mentioned | yes |  | 10/19/2026 |
 | RTI International | [Senior Research Statistician](https://careers.rti.org/jobs/13519?lang=en-us) | Raleigh, North Carolina; United States; Durham, North Carolina | not_mentioned | yes | 3 | 2026-07-17 |
-| AEI | [Spring Intern: Data Analysis and Education Policy](https://internships-aei.icims.com/jobs/2699/spring-intern%3a-data-analysis-and-education-policy/job) | US-DC | not_mentioned | no |  | 2024-11-06 |
+| AEI | [Spring Intern: Data Analysis and Education Policy](https://internships-aei.icims.com/jobs/2699/spring-intern%3a-data-analysis-and-education-policy/job) | US-DC | not_mentioned | no |  | 2024-11-07 |
 | avalerehealth | [Associate Director, Media Data Science](https://jobs.lever.co/avalerehealth/1d1f3668-f195-4074-902a-7623cbf81ea3) | New York, NY; Philadelphia, PA; Washington DC (+1 more) | not_mentioned | no | 6 | 2026-02-26 |
 | Code for America | [Lead Product Manager](https://job-boards.greenhouse.io/codeforamerica/jobs/7407338) | Remote (in the U.S.); Varies | not_mentioned | no | 7 | 2025-11-18 |
 | Code for America | [Principal Software Engineer](https://job-boards.greenhouse.io/codeforamerica/jobs/8174930) | Remote (in the U.S.); Varies | not_mentioned | no | 10 | 2026-09-11 |
@@ -314,7 +323,10 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | BRG | [Data Analyst - Forensics, Technology, Investigations & Discovery](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/New-York-NY/Data-Analyst---Forensics--Technology--Investigations---Discovery_JR100954) | New York, NY; Chicago, IL; Houston, TX (+1 more) | no_sponsorship | yes | 3 | 2026-10-15 |
 | BRG | [Software Engineer](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Software-Engineer_JR101125) | Chicago, IL; Washington, DC | no_sponsorship | yes | 4 | 2026-10-06 |
 | careers.norc.org/en-us | [Data Analyst I or II - Statistics and Data Science research support](https://careers.norc.org/en-us/job/504011/data-analyst-i-or-ii-statistics-and-data-science-research-support) | Chicago - 300 E Randolph St | no_sponsorship | yes |  |  |
-| The Brattle Group | [Data and AI Engineer](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005) | Boston, Massachusetts, United States | no_sponsorship | yes | 0 | 2026-07-15 |
+| careers.norc.org/en-us | [SAS Data Analyst I or II – Health Data Research](https://careers.norc.org/en-us/job/503989/sas-data-analyst-i-or-ii-health-data-research) | Chicago - 300 E Randolph St | no_sponsorship | yes |  |  |
+| careers.norc.org/en-us | [SAS Data Analyst I or II – Health Data Research - DC](https://careers.norc.org/en-us/job/503993/sas-data-analyst-i-or-ii-health-data-research-dc) | Washington, DC | no_sponsorship | yes |  |  |
+| The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | San Francisco, California, United States; Boston, Massachusetts, United States | no_sponsorship | yes | 0 | 2026-11-06 |
+| The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005) | Boston, Massachusetts, United States | no_sponsorship | yes | 0 | 2026-07-15 |
 | American Institutes for Research | [Senior Quantitative Researcher – CMMI Evaluations](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5448353008) | US-Remote; US-VA-Arlington; US-NC-Chapel Hill (+4 more) | no_sponsorship | no | 7 | 2026-10-08 |
 | BRG | [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) | Chicago, IL | no_sponsorship | no |  | 2026-08-28 |
 | BRG | [Manager, Strategic Analytics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Remote---USA/Manager--Strategic-Analytics_JR101043) | Remote - USA | no_sponsorship | no | 7 | 2026-08-27 |
@@ -336,7 +348,6 @@ Last updated 2026-11-06 16:13 UTC. Open jobs: 295 (policy research 132, energy p
 | The Cadmus Group, Inc. | [UX Researcher](https://careers-cadmusgroup.icims.com/jobs/3256/ux-researcher/job) |  | citizen_or_clearance | yes | 4 | 2026-10-28 |
 | RTI International | [Senior Platform Engineer](https://careers.rti.org/jobs/13966?lang=en-us) | United States | citizen_or_clearance | no | 10 | 2026-11-05 |
 | The Cadmus Group, Inc. | [Senior Data Analyst](https://careers-cadmusgroup.icims.com/jobs/3263/senior-data-analyst/job) | McLean, VA, US | citizen_or_clearance | no | 10 | 2026-11-05 |
-| The Cadmus Group, Inc. | [Senior Data Analyst](https://careers-cadmusgroup.icims.com/jobs/3236/senior-data-analyst/job) | McLean, VA, US | citizen_or_clearance | no | 10 | 2026-09-10 |
 | The Cadmus Group, Inc. | [Senior Full Stack Developer](https://careers-cadmusgroup.icims.com/jobs/3250/senior-full-stack-developer/job) |  | citizen_or_clearance | no | 6 | 2026-10-09 |
 | The Cadmus Group, Inc. | [Senior Full Stack Developer](https://careers-cadmusgroup.icims.com/jobs/3246/senior-full-stack-developer/job) |  | citizen_or_clearance | no | 6 | 2026-10-05 |
 | The Cadmus Group, Inc. | [Technical Project Manager - Machine Learning & Data Science](https://careers-cadmusgroup.icims.com/jobs/3212/technical-project-manager---machine-learning-%26-data-science/job) |  | citizen_or_clearance | no | 5 | 2026-08-11 |
